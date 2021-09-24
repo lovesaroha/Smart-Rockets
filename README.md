@@ -3,4 +3,4 @@ Each rockets goal is to reach the target circle without crashing. A genetic algo
 
 ![image](https://raw.githubusercontent.com/lovesaroha/gimages/main/18.png)
 
-[lovesaroha/p/Smart-Rockets](https://lovesaroha.com/p/Smart-Rockets)
+[lovesaroha/Smart-Rockets](https://js.lovesaroha.com/Smart-Rockets)
